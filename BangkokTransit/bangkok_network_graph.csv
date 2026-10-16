@@ -1,0 +1,104 @@
+Source_Station_Code,Source_Station_Name,Target_Station_Code,Target_Station_Name,Edge_Type,Line_Context
+N24,Khu Khot,N23,Yaek Kor Por Aor,Line Track,BTS Sukhumvit Line
+N23,Yaek Kor Por Aor,N22,Royal Thai Air Force Museum,Line Track,BTS Sukhumvit Line
+N22,Royal Thai Air Force Museum,N21,Bhumibol Adulyadej Hospital,Line Track,BTS Sukhumvit Line
+N21,Bhumibol Adulyadej Hospital,N20,Saphan Mai,Line Track,BTS Sukhumvit Line
+N20,Saphan Mai,N19,Sai Yud,Line Track,BTS Sukhumvit Line
+N19,Sai Yud,N18,Phahon Yothin 50,Line Track,BTS Sukhumvit Line
+N18,Phahon Yothin 50,N17,Wat Phra Sri Mahathat,Line Track,BTS Sukhumvit Line
+N17,Wat Phra Sri Mahathat,N16,11th Infantry Regiment,Line Track,BTS Sukhumvit Line
+N16,11th Infantry Regiment,N15,Bang Bua,Line Track,BTS Sukhumvit Line
+N15,Bang Bua,N14,Royal Forest Department,Line Track,BTS Sukhumvit Line
+N14,Royal Forest Department,N13,Sripatum,Line Track,BTS Sukhumvit Line
+N13,Sripatum,N12,Sena Nikhom,Line Track,BTS Sukhumvit Line
+N12,Sena Nikhom,N11,Kasetsart University,Line Track,BTS Sukhumvit Line
+N11,Kasetsart University,N10,Phahonyothin 24,Line Track,BTS Sukhumvit Line
+N10,Phahonyothin 24,N9,Ha Yaek Lat Phrao,Line Track,BTS Sukhumvit Line
+N9,Ha Yaek Lat Phrao,N8,Mo Chit,Line Track,BTS Sukhumvit Line
+N8,Mo Chit,N7,Saphan Khwai,Line Track,BTS Sukhumvit Line
+N7,Saphan Khwai,N5,Ari,Line Track,BTS Sukhumvit Line
+N5,Ari,N4,Sanam Pao,Line Track,BTS Sukhumvit Line
+N4,Sanam Pao,N3,Victory Monument,Line Track,BTS Sukhumvit Line
+N3,Victory Monument,N2,Phaya Thai,Line Track,BTS Sukhumvit Line
+N2,Phaya Thai,N1,Ratchathewi,Line Track,BTS Sukhumvit Line
+N1,Ratchathewi,CEN,Siam,Line Track,BTS Sukhumvit Line
+CEN,Siam,E1,Chit Lom,Line Track,BTS Sukhumvit Line
+E1,Chit Lom,E2,Ploen Chit,Line Track,BTS Sukhumvit Line
+E2,Ploen Chit,E3,Nana,Line Track,BTS Sukhumvit Line
+E3,Nana,E4,Asok,Line Track,BTS Sukhumvit Line
+E4,Asok,E5,Phrom Phong,Line Track,BTS Sukhumvit Line
+E5,Phrom Phong,E6,Thong Lo,Line Track,BTS Sukhumvit Line
+E6,Thong Lo,E7,Ekkamai,Line Track,BTS Sukhumvit Line
+E7,Ekkamai,E8,Phra Khanong,Line Track,BTS Sukhumvit Line
+E8,Phra Khanong,E9,On Nut,Line Track,BTS Sukhumvit Line
+E9,On Nut,E10,Bang Chak,Line Track,BTS Sukhumvit Line
+E10,Bang Chak,E11,Punnawithi,Line Track,BTS Sukhumvit Line
+E11,Punnawithi,E12,Udom Suk,Line Track,BTS Sukhumvit Line
+E12,Udom Suk,E13,Bang Na,Line Track,BTS Sukhumvit Line
+E13,Bang Na,E14,Bearing,Line Track,BTS Sukhumvit Line
+E14,Bearing,E15,Samrong,Line Track,BTS Sukhumvit Line
+E15,Samrong,E16,Pu Chao,Line Track,BTS Sukhumvit Line
+E16,Pu Chao,E17,Chang Erawan,Line Track,BTS Sukhumvit Line
+E17,Chang Erawan,E18,Royal Thai Naval Academy,Line Track,BTS Sukhumvit Line
+E18,Royal Thai Naval Academy,E19,Pak Nam,Line Track,BTS Sukhumvit Line
+E19,Pak Nam,E20,Srinagarindra,Line Track,BTS Sukhumvit Line
+E20,Srinagarindra,E21,Phraek Sa,Line Track,BTS Sukhumvit Line
+E21,Phraek Sa,E22,Sai Luat,Line Track,BTS Sukhumvit Line
+E22,Sai Luat,E23,Kheha,Line Track,BTS Sukhumvit Line
+W1,National Stadium,CEN,Siam,Line Track,BTS Silom Line
+CEN,Siam,S1,Ratchadamri,Line Track,BTS Silom Line
+S1,Ratchadamri,S2,Sala Daeng,Line Track,BTS Silom Line
+S2,Sala Daeng,S3,Chong Nonsi,Line Track,BTS Silom Line
+S3,Chong Nonsi,S5,Surasak,Line Track,BTS Silom Line
+S5,Surasak,S6,Saphan Taksin,Line Track,BTS Silom Line
+S6,Saphan Taksin,S7,Krung Thon Buri,Line Track,BTS Silom Line
+S7,Krung Thon Buri,S8,Wongwian Yai,Line Track,BTS Silom Line
+S8,Wongwian Yai,S9,Pho Nimit,Line Track,BTS Silom Line
+S9,Pho Nimit,S10,Talat Phlu,Line Track,BTS Silom Line
+S10,Talat Phlu,S11,Wutthakat,Line Track,BTS Silom Line
+S11,Wutthakat,S12,Bang Wa,Line Track,BTS Silom Line
+BL01,Tha Phra,BL02,Charan 13,Line Track,MRT Blue Line
+BL02,Charan 13,BL03,Fai Chai,Line Track,MRT Blue Line
+BL03,Fai Chai,BL04,Bang Khun Non,Line Track,MRT Blue Line
+BL04,Bang Khun Non,BL05,Bang Yi Khan,Line Track,MRT Blue Line
+BL05,Bang Yi Khan,BL06,Bang Phlat,Line Track,MRT Blue Line
+BL06,Bang Phlat,BL07,Bang O,Line Track,MRT Blue Line
+BL07,Bang O,BL08,Bang Pho,Line Track,MRT Blue Line
+BL08,Bang Pho,BL09,Tao Poon,Line Track,MRT Blue Line
+BL09,Tao Poon,BL10,Bang Sue,Line Track,MRT Blue Line
+BL10,Bang Sue,BL11,Kamphaeng Phet,Line Track,MRT Blue Line
+BL11,Kamphaeng Phet,BL12,Chatuchak Park,Line Track,MRT Blue Line
+BL12,Chatuchak Park,BL13,Phahon Yothin,Line Track,MRT Blue Line
+BL13,Phahon Yothin,BL14,Lat Phrao,Line Track,MRT Blue Line
+BL14,Lat Phrao,BL15,Ratchadaphisek,Line Track,MRT Blue Line
+BL15,Ratchadaphisek,BL16,Sutthisan,Line Track,MRT Blue Line
+BL16,Sutthisan,BL17,Huai Khwang,Line Track,MRT Blue Line
+BL17,Huai Khwang,BL18,Thailand Cultural Centre,Line Track,MRT Blue Line
+BL18,Thailand Cultural Centre,BL19,Phra Ram 9,Line Track,MRT Blue Line
+BL19,Phra Ram 9,BL20,Phetchaburi,Line Track,MRT Blue Line
+BL20,Phetchaburi,BL21,Sukhumvit,Line Track,MRT Blue Line
+BL21,Sukhumvit,BL22,Queen Sirikit National Convention Centre,Line Track,MRT Blue Line
+BL22,Queen Sirikit National Convention Centre,BL23,Khlong Toei,Line Track,MRT Blue Line
+BL23,Khlong Toei,BL24,Lumphini,Line Track,MRT Blue Line
+BL24,Lumphini,BL25,Si Lom,Line Track,MRT Blue Line
+BL25,Si Lom,BL26,Sam Yan,Line Track,MRT Blue Line
+BL26,Sam Yan,BL27,Hua Lamphong,Line Track,MRT Blue Line
+BL27,Hua Lamphong,BL28,Wat Mangkon,Line Track,MRT Blue Line
+BL28,Wat Mangkon,BL29,Sam Yot,Line Track,MRT Blue Line
+BL29,Sam Yot,BL30,Sanam Chai,Line Track,MRT Blue Line
+BL30,Sanam Chai,BL31,Itsaraphap,Line Track,MRT Blue Line
+BL31,Itsaraphap,BL01,Tha Phra,Line Track,MRT Blue Line
+BL01,Tha Phra,BL32,Bang Phai,Line Track,MRT Blue Line
+BL32,Bang Phai,BL33,Bang Wa,Line Track,MRT Blue Line
+BL33,Bang Wa,BL34,Phetkasem 48,Line Track,MRT Blue Line
+BL34,Phetkasem 48,BL35,Phasi Charoen,Line Track,MRT Blue Line
+BL35,Phasi Charoen,BL36,Bang Khae,Line Track,MRT Blue Line
+BL36,Bang Khae,BL37,Lak Song,Line Track,MRT Blue Line
+BL01,Tha Phra,BL32,Bang Phai,Line Track,MRT Blue Line Branch
+CEN,Siam,CEN,Siam,Interchange Connection,Cross-Platform Interchange (Sukhumvit <-> Silom)
+E4,Asok,BL21,Sukhumvit,Interchange Connection,Interchange Link (BTS Sukhumvit <-> MRT Blue)
+S2,Sala Daeng,BL25,Si Lom,Interchange Connection,Interchange Link (BTS Silom <-> MRT Blue)
+N8,Mo Chit,BL12,Chatuchak Park,Interchange Connection,Interchange Link (BTS Sukhumvit <-> MRT Blue)
+N9,Ha Yaek Lat Phrao,BL13,Phahon Yothin,Interchange Connection,Interchange Link (BTS Sukhumvit <-> MRT Blue)
+S12,Bang Wa,BL33,Bang Wa,Interchange Connection,Interchange Link (BTS Silom <-> MRT Blue)
+BL09,Tao Poon,PP16,Tao Poon,Interchange Connection,Interchange Link (MRT Blue <-> MRT Purple)
